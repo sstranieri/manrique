@@ -1,0 +1,116 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Cigarros Manrique</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<style type="text/css">
+<!--
+body,td,th {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+body {
+	background-color: #000;
+}
+-->
+</style></head>
+
+<body bgcolor="#000000" text="#FFFFCC" link="#FFFFCC" vlink="#FFFFCC" alink="#FFFFCC" leftmargin="0" topmargin="0">
+<table width="530" border="0">
+  <tr> 
+    <td width="640"><div align="center"></div></td>
+  </tr>
+  <tr>
+    <td><table width="707" border="0">
+      <tr>
+        <th width="126" align="center" scope="row"><a href="festival.htm">Manrique en Cuba</a></th>
+        <td width="65">&nbsp;</td>
+        <td colspan="2" align="center">PREMIUM CIGAR MANUFACTURER</td>
+        <td width="45">&nbsp;</td>
+        <td width="159" align="center"><a href="anecdotasManrique.htm">Manrique en USA</a></td>
+      </tr>
+      <tr>
+        <th scope="row"><a href="festival.htm" target="mainFrame"><img src="Main/Flags/cu.png" alt="cu" width="86" height="86" border="0"></a></th>
+        <td colspan="4" rowspan="4"><img src="Main/home.jpg" width="400" height="250" alt="hm"></td>
+        <td align="center"><a href="anecdotasManrique.htm"><img src="Main/Flags/us.png" alt="us" width="82" height="82" border="0"></a></td>
+      </tr>
+      <tr>
+        <th scope="row"><p>&nbsp;</p>
+          <p><a href="http://www.habanos.com/festival.aspx?fid=10&mid=71"><img src="Main/terceros/logofestival2010.jpg" alt="fest" width="54" height="140" border="0"></a></p></th>
+        <td align="center"><p><a href="http://www.cigarrights.org/">Miembro / Member</a></p>
+          <p><a href="http://www.cigarrights.org/"><img src="Main/terceros/cra.png" alt="cra" width="134" height="97" border="0"></a></p></td>
+      </tr>
+      <tr>
+        <th scope="row">&nbsp;</th>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <th scope="row"><a href="anecdotasElGourmet.htm">Videos</a></th>
+        <td align="center"><a href="internacional.htm">Cigarros Manrique Internacional Division</a></td>
+      </tr>
+      <tr>
+        <th rowspan="3" scope="row"><a href="anecdotasElGourmet.htm"><img src="images/INTRO_YOUTUBE.jpg" alt="video" width="120" height="96" border="1"></a></th>
+        <td>&nbsp;</td>
+        <td width="139" align="center"><a href="http://www.facebook.com/group.php?gid=49141603495"><img src="Main/Social/facebookn.png" alt="fb" width="62" height="62" border="0"></a></td>
+        <td width="133" align="center"><a href="http://www.youtube.com/cigarrosmanrique"><img src="Main/Social/Youtubeb.png" alt="yt" width="54" height="54" border="0"></a></td>
+        <td>&nbsp;</td>
+        <td rowspan="3" align="center"><img src="Main/globo2.png" alt="int" width="104" height="102"></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td align="center">Unite en Facebook</td>
+        <td align="center">Unite en YouTube</td>
+        <td>&nbsp;</td>
+        </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td align="center">&nbsp;</td>
+        <td align="center">&nbsp;</td>
+        <td>&nbsp;</td>
+        </tr>
+    </table>
+      <p>&nbsp;</p>
+      <div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><strong>Cigarros 
+        Manrique en el programa La Visi&oacute;n, FM La Isla. <br>
+        <object type="application/x-shockwave-flash" data="audio/player_mp3_maxi.swf" width="200" height="20">
+          <param name="movie" value="audio/player_mp3_maxi.swf" />
+          <param name="FlashVars" value="mp3=Manrique_La_Isla.mp3"/>
+        </object>
+        <br>
+    </strong></font></div></td>
+  </tr>
+  <tr> 
+    <td><div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><strong><br>
+        </strong></font></div></td>
+  </tr>
+  <tr> 
+    <td><div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><strong><br>
+        If you wish to translate any link to your language copy &amp; paste by 
+        using Google.<br>
+        <a href="http://translate.google.com.ar/translate?hl=es&sl=es&tl=en&u=http%3A//www.cigarrosmanrique.com.ar/" target="_blank"><img src="images/google.jpg" width="100" height="40" border="0"></a> 
+        <br>
+        </strong></font></div></td>
+  </tr>
+  <tr> 
+    <td><div align="center"> 
+        <p><font size="2" face="Arial, Helvetica, sans-serif"><strong><br>
+          <img src="images/3siglos.jpg" width="284" height="30"><br>
+          Desde 1958 en Catamarca 211 - (C1213BYD) - Ciudad de Buenos Aires <br>
+          Argentina Telefax 24 hs. (+54) 11-4932-5973 - email: cigarrosmanrique@gmail.com</strong><font size="1"><br>
+          "El Fumar es Perjudicial para la Salud - Ley No. 23344"&nbsp;</font> 
+          <br>
+          </font><font color="#FFFFFF" size="2" face="Verdana, Arial, Helvetica, sans-serif">Usted 
+          es el visitante N&ordm; 
+          <?php include ("counter.php"); ?>
+          </font></p>
+        </p>
+        </div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+</body>
+</html>
